@@ -1,6 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://liron123:liron123@cluster0-ojnj3.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId":"0c3317f12039f457f895",
-    "githubSecret":"6f4cea480df26e37be643b915bdbf89882b3edcb"
-}
